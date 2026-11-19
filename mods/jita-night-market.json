@@ -1,0 +1,24 @@
+{
+  "author": {
+    "id": "au-mwnjth3uugy2",
+    "keyId": "ec4515b3c26e",
+    "name": "Billsj"
+  },
+  "displayName": "吉他海四超网市场",
+  "downloadParts": null,
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/billyyyq/evejs-mod-jita-night-market/releases/download/v0.1.1/jita-night-market-0.1.1.zip"
+    }
+  ],
+  "id": "jita-night-market",
+  "publishedAt": "2026-11-19",
+  "schemaVersion": 1,
+  "sha256": "0293f7214535a8fcb2fb8266c9af0574a9c4b6cdbdc1a3f6c39db333f1e5a5ae",
+  "sizeBytes": 62892,
+  "source": "billyyyq/evejs-mod-jita-night-market",
+  "submittedAt": "2026-11-19T13:16:55.960Z",
+  "version": "0.1.1"
+}
